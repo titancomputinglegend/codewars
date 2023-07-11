@@ -1,4 +1,3 @@
 # codewars
-**Codewars Solution
-**
+**Codewars Solution**
 Contains Solutions For Python Codewars Kata's
